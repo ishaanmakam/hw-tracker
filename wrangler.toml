@@ -1,4 +1,4 @@
-name = "canvas-hw-tracker"
+name = "hw-tracker"
 main = "src/index.js"
 compatibility_date = "2026-06-01"
 
@@ -10,7 +10,7 @@ binding = "ASSETS"
 # button replaces it with your own, and `npm run deploy` creates one for you.
 [[kv_namespaces]]
 binding = "KV"
-id = "00000000000000000000000000000000"
+id = "d6c51ef8c50342cfae3ffa92eca5533c"
 
 # Pull the Canvas calendar feed and send reminders every 30 minutes.
 [triggers]
